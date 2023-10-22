@@ -1,0 +1,9 @@
+
+/* ### CUSTOM CODE FOR EVENT PLUGIN */
+
+body.page-template-template-events .custom-events-col {margin-top: 40px; margin-bottom: 40px; }
+body.page-template-template-events .card {box-shadow: 0 1px 3px rgb(34 40 49 / 20%); border-radius: 3px; -webkit-transition: all .2s ease-in-out; transition: all .2s ease-in-out; padding: 3rem 2.75rem; min-height: 320px;}
+body.page-template-template-events .card h3 {margin-bottom: 0px;}
+body.page-template-template-events .eventdetails-row {margin-top: 40px; margin-bottom: 10px;}
+body.page-template-template-events .eventdetails-row i { margin-right: 10px; margin-bottom: 10px;}
+body.page-template-template-events .eventdetails-row span.details-title {font-weight: bold}
